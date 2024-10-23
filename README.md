@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <img alt="Brdnn Github Stats" src="https://github-readme-stats-seven-khaki-56.vercel.app/api/top-langs/?username=brdnn" />
-
+<img src"https://github-readme-stats-seven-khaki-56.vercel.app/api/?username=brdnn" />
 <!--
 **Brdnn/brdnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
