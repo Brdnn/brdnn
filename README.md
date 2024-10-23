@@ -1,8 +1,4 @@
-## Hi there 👋 I'm Brendon
-
-<img alt="Brdnn Github Stats" src="https://github-readme-stats-seven-khaki-56.vercel.app/api/top-langs/?username=brdnn" />
-
-# 👨‍💻 Freelance Software Engineer | Malaysia 🇲🇾
+# 👨‍💻 Brendon | Freelance Software Engineer | Malaysia 🇲🇾
 
 As a **freelance software engineer** with over six years of experience, I specialize in developing scalable applications and innovative solutions using **TypeScript, JavaScript, Node.js, Python,** and **PHP**.
 
@@ -49,6 +45,3 @@ Passionate about exploring new technologies and methodologies to enhance my skil
 
 ## 📫 Let’s Connect
 Open to collaboration and networking opportunities! Reach out to me at **[brendon.codexiosolution@gmail.com](mailto:brendon.codexiosolution@gmail.com)**.
-
-
-
