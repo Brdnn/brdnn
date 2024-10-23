@@ -7,10 +7,6 @@ I am a self-taught software engineer and a business graduate with over six years
 - Building user-centric applications that solve real-world problems.
 - Strong background in project management and cross-functional collaboration.
 
-## 🌍 Current Projects
-- **Foodio:** A recipe social media platform connecting users with local merchants.
-- **HireFlow:** An in-house CRM for managing HR processes efficiently.
-- **Defi Experience:** Revolutionizing podcast content creation and distribution.
 
 ## 🛠️ Languages and Tools
 
