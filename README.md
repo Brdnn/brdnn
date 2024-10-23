@@ -1,6 +1,6 @@
 # 👨‍💻 Brendon | Freelance Software Engineer | Malaysia 🇲🇾
 
-I am a self-taught software engineer and a business graduate with over six years of experience in the tech industry. My unique background in business and technology allows me to bridge the gap between technical solutions and strategic business objectives. I have participated in several innovative startups, taking on roles as Team Lead and Co-Founder, where I have successfully built projects from scratch.
+I am a software engineer with a business background with over six years of experience in the tech industry. My unique background in business and technology allows me to bridge the gap between technical solutions and strategic business objectives. I have participated in several innovative startups, taking on roles as Team Lead and Co-Founder, where I have successfully built projects from scratch.
 
 ## 🔧 Expertise
 - Full-stack development with a focus on modern frameworks.
