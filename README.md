@@ -1,6 +1,6 @@
 # 👨‍💻 Brendon | Freelance Software Engineer | Malaysia 🇲🇾
 
-As a **freelance software engineer** with over six years of experience, I specialize in developing scalable applications and innovative solutions using **TypeScript, JavaScript, Node.js, Python,** and **PHP**.
+I am a self-taught software engineer and a business graduate with over six years of experience in the tech industry. My unique background in business and technology allows me to bridge the gap between technical solutions and strategic business objectives. I have participated in several innovative startups, taking on roles as Team Lead and Co-Founder, where I have successfully built projects from scratch.
 
 ## 🔧 Expertise
 - Full-stack development with a focus on modern frameworks.
