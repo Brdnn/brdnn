@@ -40,4 +40,4 @@ I am a self-taught software engineer and a business graduate with over six years
 Passionate about exploring new technologies and methodologies to enhance my skill set.
 
 ## 📫 Let’s Connect
-Open to collaboration and networking opportunities! Reach out to me at **[here](mailto:brendon.codexiosolution@gmail.com)**.
+Open to collaboration and networking opportunities! Reach out to me at **[here](mailto:brendon.codexiosolution@gmail.com)**. Check out my projects at **[here](https://brdn.webflow.io/)**
