@@ -7,7 +7,6 @@ I am a software engineer with a business background with over six years of exper
 - Building user-centric applications that solve real-world problems.
 - Strong background in project management and cross-functional collaboration.
 
-
 ## 🛠️ Languages and Tools
 
 | Language/Tool       | Icon                           |
@@ -21,11 +20,14 @@ I am a software engineer with a business background with over six years of exper
 | **React Native**    | ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black) |
 | **Nest.js**         | ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?logo=nestjs&logoColor=white) |
 | **Swift**           | ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white) |
+| **FastAPI**         | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) |
 
 | Database/Tool       | Icon                           |
 |---------------------|--------------------------------|
 | **MySQL**           | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
+| **PostgreSQL**      | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
 | **MongoDB**         | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **Supabase**        | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) |
 | **Git**             | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
 | **Docker**          | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
 | **Nginx**           | ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) |
@@ -40,4 +42,4 @@ I am a software engineer with a business background with over six years of exper
 Passionate about exploring new technologies and methodologies to enhance my skill set.
 
 ## 📫 Let’s Connect
-Open to collaboration and networking opportunities! Reach out to me at **[here](mailto:brendon.codexiosolution@gmail.com)**. Check out my projects at **[here](https://brdn.webflow.io/)**
+Open to collaboration and networking opportunities! Reach out to me at **[here](mailto:brendon.codexiosolution@gmail.com)**. Check out my projects at **[here](https://brdn.webflow.io/)**.
